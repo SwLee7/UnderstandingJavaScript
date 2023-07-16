@@ -30,3 +30,4 @@ const triple = a.map((num) => {
 // 따라서 forEach와 map의 결정적인 차이점은 forEach는 return 값이 없지만.map()이 새로운 배열을 return한다는 것이다.
 // 단순히 배열을 반복할 필요가 있다면 forEach를 사용하면되고,
 // 결과가 필요하지만 원본 배열을 변경하고 싶지 않으면 map을 사용하면된다.
+// 끝
