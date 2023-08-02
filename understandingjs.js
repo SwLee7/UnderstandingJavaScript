@@ -6,3 +6,7 @@ let firstWord = function (){
 
 firstWord();
 // hello world
+
+let secondWord = () => {
+    console.log("Hi there.")
+}
