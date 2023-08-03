@@ -10,3 +10,4 @@ firstWord();
 let secondWord = () => {
     console.log("Hi there.")
 }
+secondWord();
